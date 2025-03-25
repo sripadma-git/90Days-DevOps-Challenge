@@ -1,0 +1,29 @@
+What is DevOps?
+DevOps is a set of practices, cultural philosophies, and tools that combine software development (Dev) and IT operations (Ops) to improve collaboration and productivity by automating infrastructure, workflows, and continuously measuring application performance.
+
+Why Do We Need DevOps?
+Faster Delivery: Streamlines development and operations, allowing teams to deploy software more quickly and efficiently.
+
+Improved Collaboration: Breaks down silos between development and operations teams, fostering better collaboration.
+
+Higher Quality: Continuous integration and testing help identify and resolve issues early, resulting in higher-quality software.
+
+Scalability & Flexibility: Facilitates the ability to scale applications rapidly.
+
+Role of DevOps
+Automation: Automates repetitive tasks like testing, deployment, and infrastructure provisioning.
+
+Monitoring: Tracks performance, system health, and application usage to ensure reliability.
+
+Collaboration: Encourages cooperation between development, operations, and other stakeholders.
+
+Continuous Integration/Continuous Delivery (CI/CD): Facilitates frequent code integration and automated delivery pipelines.
+
+What is Automation?
+Automation in DevOps involves using tools and scripts to perform tasks like code testing, deployment, infrastructure provisioning, and monitoring, eliminating manual intervention and increasing efficiency.
+
+What is Scaling?
+Scaling refers to the ability to adjust infrastructure resources (e.g., computing power, storage) to meet the demands of the application, either by scaling up (adding more resources) or scaling out (adding more instances or servers).
+
+What is Infrastructure?
+Infrastructure in the context of DevOps refers to the underlying hardware, software, networks, and systems required to support applications. This includes servers, databases, networks, and any other resources that are essential to run applications
