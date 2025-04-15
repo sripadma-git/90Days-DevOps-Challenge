@@ -22,10 +22,17 @@ Questions
 - Will data on the container be lost when the docker container exits?
 - What is a Docker swarm?
 - What are the docker commands for the following:
+  <br> 
   view running containers
+  <br> 
   command to run the container under a specific name
+  <br> 
   command to export a docker
+  <br> 
   command to import an already existing docker image
+  <br> 
   commands to delete a container
+  <br> 
   command to remove all stopped containers, unused networks, build caches, and dangling images?
+  <br> 
 - What are the common docker practices to reduce the size of Docker Image?
